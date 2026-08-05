@@ -1,0 +1,118 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# =========================
+# Jupyter Notebook
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# Environment & Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Data Science
+# =========================
+
+# Large datasets
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Generated datasets / outputs
+data/raw/
+data/processed/
+outputs/
+
+# =========================
+# Machine Learning
+# =========================
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.joblib
+
+# TensorFlow
+checkpoint/
+saved_model/
+
+# =========================
+# IDE / Editors
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# =========================
+# Logs
+# =========================
+
+*.log
+logs/
+
+# =========================
+# Temporary Files
+# =========================
+
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# =========================
+# Node.js / Full Stack
+# =========================
+
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
