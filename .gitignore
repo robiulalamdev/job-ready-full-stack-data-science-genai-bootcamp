@@ -34,6 +34,8 @@ pip-wheel-metadata/
 .env
 .env.*
 !.env.example
+# for nested env
+.env.**/**
 
 # =========================
 # Data Science
