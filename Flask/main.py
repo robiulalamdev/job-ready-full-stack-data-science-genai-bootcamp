@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, redirect, url_for
+from flask import Flask, jsonify, redirect, url_for, render_template
 
 
 app = Flask(__name__)
@@ -7,7 +7,9 @@ app = Flask(__name__)
 
 @app.route("/")
 def welcome():
-    return "Welcome to the Flask application!"
+    # return "Welcome to the Flask application!"
+    return render_template("index.html")
+
 
 
 if __name__ == "__main__":
