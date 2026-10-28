@@ -163,3 +163,5 @@ Course information is based on the curriculum and structure provided by Inceptio
 This repository represents my journey toward becoming a **job-ready Full Stack Data Scientist and Generative AI Developer**.
 
 ⭐ **Keep Learning. Keep Building. Keep Growing.**
+
+- thanks for reading
