@@ -1,6 +1,6 @@
 # 🚀 Job-Ready Full Stack Data Science with Generative AI Bootcamp 1.0 - 2026
 
-My personal learning repository for the **Job-Ready Full Stack Data Science with Generative AI Bootcamp 1.0** by **Inception BD**, conducted in Bangla.
+**Job-Ready Full Stack Data Science with Generative AI Bootcamp 1.0** by **Inception BD**, conducted in Bangla.
 
 This repository contains my course notes, practice code, assignments, experiments, and projects as I progress through the bootcamp.
 
