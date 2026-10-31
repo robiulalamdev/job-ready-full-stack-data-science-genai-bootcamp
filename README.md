@@ -1,4 +1,4 @@
-# 🚀 Job-Ready Full Stack Data Science with Generative AI Bootcamp 1.0 - 2026
+# 🚀 Job-Ready Full Stack Data Science with Generative AI Bootcamp - 2026
 
 **Job-Ready Full Stack Data Science with Generative AI Bootcamp 1.0** by **Inception BD**, conducted in Bangla.
 
